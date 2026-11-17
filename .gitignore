@@ -1,0 +1,18 @@
+# Build output
+windows/bin/
+windows/obj/
+android/build/
+release/
+
+# Secrets - never commit
+*.keystore
+*.jks
+key.hex
+*.apk
+*.idsig
+
+# Logs / editors
+*.log
+.vs/
+.vscode/
+.idea/
